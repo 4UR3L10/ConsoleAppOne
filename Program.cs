@@ -13,7 +13,7 @@ namespace ConsoleAppOne
             Class3 class3 = new Class3();
             
             // Phrase Message
-            Console.WriteLine(class1.returnPhrase() + class2.returnPhrase()/* + class3.returnPhrase()*/);              
+            Console.WriteLine(class1.returnPhrase() + class2.returnPhrase() /*+ class3.returnPhrase()*/);              
         }
     }
 }
