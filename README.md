@@ -14,5 +14,5 @@ Willaim -> Class3: do it
 Due Date: 01/12/20 11:59 PM
 
 Requirements: 
--Visual Studio Community Edition 
+-Visual Studio Community Edition || Code
 -Github Desktop
