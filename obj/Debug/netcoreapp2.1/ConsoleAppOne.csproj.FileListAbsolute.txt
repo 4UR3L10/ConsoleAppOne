@@ -1,0 +1,11 @@
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\bin\Debug\netcoreapp2.1\ConsoleAppOne.deps.json
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\bin\Debug\netcoreapp2.1\ConsoleAppOne.runtimeconfig.json
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\bin\Debug\netcoreapp2.1\ConsoleAppOne.runtimeconfig.dev.json
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\bin\Debug\netcoreapp2.1\ConsoleAppOne.dll
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\bin\Debug\netcoreapp2.1\ConsoleAppOne.pdb
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.csprojAssemblyReference.cache
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.AssemblyInfoInputs.cache
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.AssemblyInfo.cs
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.dll
+C:\Users\aurel\Visual Studio 2019\Projects\ConsoleAppOne\obj\Debug\netcoreapp2.1\ConsoleAppOne.pdb
