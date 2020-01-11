@@ -18,5 +18,7 @@ Requirements:
 -Visual Studio Community Edition || Code
 -Github Desktop
 
+Questions? (Arete) -> Message: aurelio.advisor.fiu.edu
+
 
 
