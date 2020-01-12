@@ -5,7 +5,7 @@ Aurelio -> Main + Class1:We
 
 Miguel  -> Class2:can
 
-Willaim -> Class3: do it
+William -> Class3: do it
 
 +When doing the pull uncheck the "db.lock" file.
 
